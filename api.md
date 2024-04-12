@@ -6,7 +6,7 @@
 > 开发中
 
 #### 接口URL
-> https://caipiao.usdt123.site/api/latest
+> https://cp.usdt123.site/api/latest
 
 #### 请求方式
 > POST
@@ -87,7 +87,7 @@ function sign($data, $appkey){
 > 开发中
 
 #### 接口URL
-> https://caipiao.usdt123.site/api/sign
+> https://cp.usdt123.site/api/sign
 
 #### 请求方式
 > POST

@@ -27,7 +27,7 @@ $data['sign'] = sign($data, $appkey);
 $curl = curl_init();
 
 curl_setopt_array($curl, [
-  CURLOPT_URL => "https://caipiao.usdt123.site/api/latest",
+  CURLOPT_URL => "https://cp.usdt123.site/api/latest",
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => "",
   CURLOPT_MAXREDIRS => 10,
